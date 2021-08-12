@@ -28,7 +28,7 @@ that all of the tracker and auto-bump task have been removed or commented out. A
 resources.
 
 ## ci-images
-------------
+-----------
 
 This docker image is shared between the runtime-og and autoscaler pipeline. If a new image needs to be made,
 please tag the image with the git commit. This way we can correlate which docker file built which image.
